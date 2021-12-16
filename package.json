@@ -11,5 +11,8 @@
     "qiankun"
   ],
   "author": "hllinc",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "qiankun": "^2.6.3"
+  }
 }
